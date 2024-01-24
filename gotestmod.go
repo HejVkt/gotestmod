@@ -2,6 +2,6 @@ package gotestmod
 
 import "fmt"
 
-func Foo() {
-	fmt.Println("Foo function")
+func Bar() {
+	fmt.Println("Bar function")
 }
