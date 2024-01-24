@@ -1,3 +1,3 @@
-module github.com/HejVkt/gotestmod
+module github.com/hejvkt/gotestmod
 
 go 1.20
